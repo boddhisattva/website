@@ -1,3 +1,6 @@
+task "assets:precompile" do
+  exec("jekyll build")
+end
 
 task :post do
   meta = get_metadata(:title, :slug, :categories)
