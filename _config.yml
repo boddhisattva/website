@@ -16,7 +16,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-sitemap
+exclude: ['vendor']
