@@ -35,7 +35,7 @@ I **started that meeting with 1 question - On a scale of 1 to 10, how would u ra
 
 
 
-I realised this person was right on their part on choosing not to answer the question as they understandbly could have had other things on their mind with regard to supporting their family & rightly so. 
+I realised this person was right on their part on choosing not to answer the question as they understandbly could have had other things on their mind with regard to supporting their family & rightly so.
 
 
 
@@ -43,11 +43,11 @@ I realised, **I had asked the wrong question. I should have instead asked - what
 
 
 
-Last year, I had a chance to **visit Finland**, which as per 1 report is the world’s **happiest country in the world**. I'm not diving into that opinion.
+Last year, I had a chance to **visit #Finland**, which as per 1 report is the world’s **happiest country in the world**. I'm not diving into that opinion.
 
 
 
-I was curious about **what made it the happiest country** & that’s when I came across **‘Sisu’** which **comes from** the word **sisa which means internal**. In short **Sisu is the Finnish concept of resilience**, courage & grit in the face of all manner of challenges as per #everydaysisu book. I asked a Finnish man what did Sisu mean to him & he said persistence & dedication
+I was curious about **what made it the happiest country** & that’s when I came across **#Sisu** which **comes from** the word **sisa which means internal**. In short **Sisu is the Finnish concept of resilience**, courage & grit in the face of all manner of challenges as per 'Everyday Sisu' book by Katja Pantzar. I asked a Finnish man what did Sisu mean to him & he said persistence & dedication
 
 
 
@@ -55,11 +55,11 @@ Reflecting back on my 4+ years of living in #Germany, **I've been laid off more 
 
 
 
-**Coming from India**, there's been atleast **1 thing that has always kept me going amidst my own challenging times** & for me that has been my conscience & at the core of it, my asking myself one question, was I on the path of **Dharma**? Dharma stands for righteousness & for me it has been one of my biggest guiding light in the face of adversities & life
+**Coming from #India**, there's been atleast **1 thing that has always kept me going amidst my own challenging times** & for me that has been **my conscience** & at the core of it, my **asking myself one question, was I on the path of #Dharma**? Dharma stands for righteousness & following my Dharma has built immense resilience in me & it's been 1 of my biggest guiding light in the face of adversities & life. The saying: **‘Dharmo Rakshati Rakshitah’(which means if u protect Dharma, Dharma will protect u) has proven to be true in my life always**.
 
 
 
-Whether its Sisu or Dharma or anything else that drives u, I’ve realised at the core of it is one’s perception to life. Michael Jordan once said: I've failed over and over again in my life, that is why I succeed. Personally for me, **‘Dharmo Rakshati Rakshitah’**(which means if u protect Dharma, Dharma will protect u) has been one of strongest pillars of what builds resilience in me & keeps me going
+Whether its Sisu or Dharma or anything else that drives u, I’ve realised at the core of it is one’s perception to life. Michael Jordan once said: I've failed over and over again in my life, that is why I succeed.
 
 
 
