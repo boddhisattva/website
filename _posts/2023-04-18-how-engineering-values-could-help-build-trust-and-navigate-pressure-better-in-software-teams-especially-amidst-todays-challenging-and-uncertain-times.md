@@ -68,4 +68,4 @@ The **[Intercom’s blog on engineering values](https://www.intercom.com/blog/th
 
 In the coming days, I intend to share more on some of these engineering values, how did I come to realise them and how using them helped me in the past navigate pressure and challenging circumstances/times better & how it continues to help me as a software dev even in these current times.
 
-With that said, I welcome your valuable feedback on this post and if I may, I'd like to invite you to consider asking yourself/reflecting upon one question: **Would you now consider defining engineering values to better equip your colleagues with ways that could help them more efficiently tackle today's challenging and uncertain times?**
+With that said, I welcome your valuable feedback on this post and if I may, I'd like to invite you to consider asking yourself/reflecting upon one question: **Would you now consider defining engineering values to better equip your colleagues within a software team with ways that could help them more efficiently tackle today's challenging and uncertain times?**
