@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Engineering values could help build more trust and navigate pressure better together especially amidst today's challenging and uncertain times?"
+title: "How Engineering values could help build more trust and help navigate pressure better in software teams especially amidst today's challenging and uncertain times?"
 date:  2023-04-18 20:43:00 +02:00
 categories:
   - engineeringvalues
