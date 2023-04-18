@@ -21,6 +21,7 @@ categories:
   - Germany
 ---
 
+![Michael Jordan failed many times and that's why he succeeded](https://i.imgur.com/1mARBGo.png)
 
 
 In one of my past workplaces, I had a wonderful opportunity to facilitate a team meeting & it had to do with something that could improve our software team performance.

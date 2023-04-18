@@ -26,6 +26,9 @@ categories:
   - softwareindustry
 ---
 
+
+![Build strong values to build great products](https://i.imgur.com/Pykuxkx.png)
+
 In one of my past roles, we as a ‘new’ team were working on a project that was not only critical to the business but also had stringent completion timelines.
 
 This along with a few other factors put a lot of pressure on all of us as a team & it impacted our working relationships.
