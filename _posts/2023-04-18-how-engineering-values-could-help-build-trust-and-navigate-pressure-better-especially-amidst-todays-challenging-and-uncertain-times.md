@@ -27,7 +27,7 @@ categories:
 ---
 
 
-![Build strong values to build great products](https://i.imgur.com/Pykuxkx.png)
+![Build strong values to build great products](https://i.imgur.com/Pykuxkx.png =790x350)
 
 In one of my past roles, we as a ‘new’ team were working on a project that was not only critical to the business but also had stringent completion timelines.
 
