@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Engineering values could help build more trust and navigate pressure better together especially amidst today's challenging and uncertain times?"
+title: "How Engineering values could help build more trust and help navigate pressure better in software teams especially amidst today's challenging and uncertain times?"
 date:  2023-04-18 20:43:00 +02:00
 categories:
   - engineeringvalues
@@ -26,8 +26,7 @@ categories:
   - softwareindustry
 ---
 
-
-# How Engineering values could help build more trust and navigate pressure better together especially amidst today's challenging and uncertain times?
+<img src="https://i.imgur.com/Pykuxkx.png" alt="Build strong values to build great products" width="790" height="350">
 
 In one of my past roles, we as a ‘new’ team were working on a project that was not only critical to the business but also had stringent completion timelines.
 
@@ -69,6 +68,4 @@ The **[Intercom’s blog on engineering values](https://www.intercom.com/blog/th
 
 In the coming days, I intend to share more on some of these engineering values, how did I come to realise them and how using them helped me in the past navigate pressure and challenging circumstances/times better & how it continues to help me as a software dev even in these current times.
 
-With that said, I’d like to leave you with one question to reflect upon: **Would you consider defining engineering values to better equip your colleagues with ways that could help them more efficiently tackle today's challenging and uncertain times?**
-
-#April #stressawarenessmonth #engineeringvalues #bettertogether
+With that said, I welcome your valuable feedback on this post and if I may, I'd like to invite you to consider asking yourself/reflecting upon one question: **Would you now consider defining engineering values to better equip your colleagues with ways that could help them more efficiently tackle today's challenging and uncertain times?**
