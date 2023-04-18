@@ -26,8 +26,7 @@ categories:
   - softwareindustry
 ---
 
-
-![Build strong values to build great products](https://i.imgur.com/Pykuxkx.png =790x350)
+<img src="https://i.imgur.com/Pykuxkx.png" alt="Build strong values to build great products" width="790" height="350">
 
 In one of my past roles, we as a ‘new’ team were working on a project that was not only critical to the business but also had stringent completion timelines.
 
