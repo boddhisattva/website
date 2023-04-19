@@ -34,7 +34,7 @@ This along with a few other factors put a lot of pressure on all of us as a team
 
 Personally while working together then, based on certain behaviors I observed in my team members, I wondered if I could fully trust them.
 
-A mentor who I spoke to about this shared - “I trust by default & you’ll need to earn my distrust”. This for me was deep. I started applying ‘**Default to Trust**’ as **1 of my values at work**.
+[Swanand Pagnis](https://www.linkedin.com/in/pagnis/), a mentor who I spoke to about this shared - “I trust by default & you’ll need to earn my distrust”. This for me was deep. I started applying ‘**Default to Trust**’ as **1 of my values at work**.
 
 When working from Singapore(before moving to Germany), I first learnt about ‘**values**’ in general & how it **determines** **how we respond to situations** and also how it can genuinely serve as **common language to effectively communicate and better connect with people across different cultures etc**., I dug deeper & I learnt about **‘assume best intentions’** as **another value** back then.
 
