@@ -9,8 +9,8 @@ date:  2024-09-22 15:40:53
 - A human being **driven by [values](https://bit.ly/mohnish_human_and_engineering_values)** & a person who **cares about people & his work**
 - Work as **Software consultant** specialising in **Ruby on Rails** and as a **Team coach**
 - Have been **programming** for **12+ years** and I'm **based** in **Berlin, Germany**
-- Have been building **Ruby on Rails** apps for **10+ years**(More on How I intend to serve [here](/being_of_service_as_a_rails_consultant))
-- Besides programming, I enjoy being a **Team coach**(More on How I intend to serve [here](/being_of_service_as_a_team_coach))
+- Have been building **Ruby on Rails** apps for **10+ years**(More on how I intend to serve [here](/being_of_service_as_a_rails_consultant))
+- Besides programming, I enjoy being a **Team coach**(More on how I intend to serve [here](/being_of_service_as_a_team_coach))
 - Outside of work, whenever feasible, I enjoy sharing my two cents/volunteering, traveling, meeting people from different cultures & walks of life, being in nature, making open source contributions, blogging, playing games like Uno, badminton & ultimate frisbee
 - **Giving Back**: Mentors have played a big role in my life & I care about paying it forward
   - Please feel free to
