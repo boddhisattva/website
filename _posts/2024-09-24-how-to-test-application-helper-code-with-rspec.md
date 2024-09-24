@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to test application helper code with RSpec
-date:  2022-08-15 07:02:00 +02:00
+date:  2024-04-24 18:06:00 +02:00
 categories:
   - rspec
   - helper
