@@ -35,7 +35,7 @@ categories:
   RSpec.describe ApplicationHelper, type: :helper do
   
     describe '#title' do
-      it 'page specific title in the context of the app name' do
+      it 'returns page specific title in the context of the app name' do
         content_for(:title) { "Page Title" }
   
         expect(title).to eq("Page Title | #{I18n.t('learner')}")
