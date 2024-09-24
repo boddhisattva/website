@@ -4,16 +4,15 @@ title: "How I intend to be of service as a Team coach"
 date:  2024-09-23 09:24:35
 ---
 
-- Building Resilient and self organizing teams
-- Cultivating a feeling of genuine connection among team members
-- Conflict Mediation
-- Focusing on Shared (human, engineering) values to drive behavior
-- Building a Culture of Belonging, Inclusion & Equity
-- Building Psychological Safety
-- Establishing Purpose & Mission(for projects, teams)
-- Improving Feedback Culture(Giving & Receiving Feedback) within teams
-- Building Emotional Intelligence
-
+- **Building Resilient and Self-Organizing Teams** – Empower teams to be better at navigating pressure and challenges, ensuring sustaing productivity over the long term.
+- **Cultivating a Feeling of Genuine Connection Among Team Members** – This leads to better collaboration and builds a deeper sense of trust, enhancing team cohesion and overall performance.
+- **Conflict Mediation** – Resolve differences effectively to maintain harmony, reduce downtime, build understanding and improve team collaboration.
+- **Focusing on Shared (Human, Engineering) Values to Drive Behavior** – Align team actions with core values to improve engagement and work with a sense of accountability towards a common goal/objective.
+- **Building a Culture of Belonging, Inclusion & Equity** – Create an environment where every team member feels seen and valued, driving greater creativity and engagement.
+- **Building Psychological Safety** – Enable teams more easily to build on each others strengths and to look out for one another in areas of improvements , leading to increased innovation and stronger problem-solving capabilities as a unit.
+- **Establishing Purpose & Mission (for Projects, Teams)** – Provide clear direction and motivation, driving focus and alignment towards achieving impactful results.
+- **Improving Feedback Culture (Giving & Receiving Feedback) Within Teams** – Cultivate a culture of continuous improvement, fostering growth and higher performance.
+- **Building Emotional Intelligence** – Strengthen interpersonal dynamics, boosting team collaboration, empathy, and decision-making effectiveness.
 
 **Why do I care about team related coaching?**
 
