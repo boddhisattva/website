@@ -4,14 +4,14 @@ title: "How I intend to be of service as a Team coach"
 date:  2024-09-23 09:24:35
 ---
 
-- **Building Resilient and Self-Organizing Teams** – Empower teams to be better at navigating pressure and challenges, ensuring sustaing productivity over the long term.
-- **Cultivating a Feeling of Genuine Connection Among Team Members** – This leads to better collaboration and builds a deeper sense of trust, enhancing team cohesion and overall performance.
+- **Building Resilient and Self-Organizing Teams** – Empower teams to be better at navigating pressure and challenges, ensuring sustained productivity over the long term.
+- **Cultivating a Feeling of Genuine Connection Among Team Members** – This leads to better collaboration and eventually builds a deeper sense of trust, enhancing team cohesion and overall performance.
 - **Conflict Mediation** – Resolve differences effectively to maintain harmony, reduce downtime, build understanding and improve team collaboration.
 - **Focusing on Shared (Human, Engineering) Values to Drive Behavior** – Align team actions with core values to improve engagement and work with a sense of accountability towards a common goal/objective.
-- **Building a Culture of Belonging, Inclusion & Equity** – Create an environment where every team member feels seen and valued, driving greater creativity and engagement.
-- **Building Psychological Safety** – Enable teams more easily to build on each others strengths and to look out for one another in areas of improvements , leading to increased innovation and stronger problem-solving capabilities as a unit.
+- **Building a Culture of Belonging, Inclusion & Equity** – Create an environment where every team member feels seen and valued, so that people feel more intrinsically motivated to do their best work each day
+- **Building Psychological Safety** – Create a safe space for people to be vulnerable and more openly speak about their strengths & areas of improvement. As a result, build on each others strengths and look out for one another in their areas of improvements, leading to stronger problem-solving capabilities as a unit and also promoting individual growth opportunties.
 - **Establishing Purpose & Mission (for Projects, Teams)** – Provide clear direction and motivation, driving focus and alignment towards achieving impactful results.
-- **Improving Feedback Culture (Giving & Receiving Feedback) Within Teams** – Cultivate a culture of continuous improvement, fostering growth and higher performance.
+- **Improving Feedback Culture (Giving & Receiving Feedback) Within Teams** – Cultivate a culture of continuous improvement, fostering growth and better individual & team performance.
 - **Building Emotional Intelligence** – Strengthen interpersonal dynamics, boosting team collaboration, empathy, and decision-making effectiveness.
 
 **Why do I care about team related coaching?**
