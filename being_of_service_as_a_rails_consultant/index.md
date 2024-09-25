@@ -15,13 +15,14 @@ date:  2024-09-23 09:24:34
     - **Being product minded**
     - Collaborating with different stakeholders(including members of other teams & end users) to better serve everyone
 
+- **Examples of Open source work** and more recent code samples can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+
 - Many people have told me **communication** is one of my **strengths** & I’d be happy to put that to good use
 
 - There is a saying failure can teach you a lot more than success. Having **worked** in **International teams(based in Singapore, UK and currently Germany) for almost 7 years** has **taught me**(some the hard way) a lot about **what key ingredients make great teams**. I’d be happy to leverage this experience if & when needed
 
 - **I enjoy sharing my two cents when needed through pairing, coaching**(to enable others to think for themselves & eventually be more independent), **mentoring**(I have been doing probono coaching & mentorship [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish) for a while now), or even just being a sounding board
 
-- **Examples of Open source wor**k and more recent code samples are present [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
 
 - In case you'd like to see past work references, you can find them [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
   - On a related note, some of my [ex colleagues have also recommend my work on LinkedIn](https://de.linkedin.com/in/mohnish-jadwani-9a924619)
