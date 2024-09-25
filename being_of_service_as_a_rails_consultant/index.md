@@ -15,7 +15,7 @@ date:  2024-09-23 09:24:34
     - **Being product minded**
     - Collaborating with different stakeholders(including members of other teams & end users) to better serve everyone
 
-- **Examples of Open source work** and more recent code samples can be found [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)
+- **Examples of Open source work** and more recent code samples can be found **[here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)**
 
 - Many people have told me **communication** is one of my **strengths** & I’d be happy to put that to good use
 
