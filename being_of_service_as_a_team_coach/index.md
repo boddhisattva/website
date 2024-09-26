@@ -18,7 +18,7 @@ Also, I personally feel **being an engineer in addition to being a team coach he
 - **Improving Feedback Culture (Giving & Receiving Feedback) Within Teams** – Cultivate a culture of continuous improvement, fostering growth and better individual & team performance.
 - **Building Emotional Intelligence** – Strengthen interpersonal dynamics, boosting team collaboration, empathy, and decision-making effectiveness.
 
-**Why do I care about team related coaching?**
+**More reasons as to why do I care about team related coaching?**
 
 In my 12+ years as a software developer, I initially believed software development was mainly about technology and communication. However, upon reflecting on my experiences further, I realized that **software development in teams is actually a lot about people, relationships, empathy, and having a sense of genuine connection with team members, towards a company mission/product and for one's end customers**.
 
