@@ -4,9 +4,9 @@ title: "How I intend to be of service as a Rails consultant"
 date:  2024-09-23 09:24:34
 ---
 
-From building MVPs to optimizing large-scale Ruby on Rails applications, I bring a blend of technical expertise, product focus, leadership skills & coaching/mentoring experience.
+From building MVPs to optimizing large-scale Ruby on Rails applications, **I bring a blend of technical expertise, product focus, leadership skills & coaching/mentoring experience**.
 
-As a software engineer, my core strengths include:
+**As a software engineer, my core strengths include**:
 
 - Crafting scalable solutions with tools & technologies like [Packs-Rails](https://github.com/rubyatscale/packs-rails), Sorbet, Rails engines, Elasticsearch, RabbitMQ, Redis, and more.
 
@@ -18,7 +18,7 @@ As a software engineer, my core strengths include:
 
 - **Examples of Open source work** and more recent code samples can be found **[here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)**
 
-Beyond technical implementation, I value:
+**Beyond technical implementation, I value**:
 
 - **Having a product-minded approach**, meaning I think beyond code and value
   - Ideating in discussions related to user journeys and personas that eventually lead to more user-friendly products
