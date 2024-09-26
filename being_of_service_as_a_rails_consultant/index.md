@@ -24,8 +24,6 @@ Beyond technical implementation, I value:
   - Ideating in discussions related to user journeys and personas that eventually lead to more user-friendly products
   - Taking inputs directly from different teams and stakeholders as & when needed in an attempt to build better features or when fixing important bugs that impact one's customers
 
-I’m also passionate about open-source contributions, coaching(to enable others to think for themselves & be more independent) and mentoring, with examples of open source contributions & recent work available [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c).
-
 - **Proactive communication**: Communicating early and often is key to the success of any project, and I’ve been told by many people communication is my strength. Whether it's breaking down and explaining complex concepts or aligning cross-functional teams, I’m committed to keeping everyone on the same page.
 
 - **Sharing my two cents as a coach, mentor or fellow developer**: Mentors
