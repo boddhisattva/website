@@ -28,8 +28,10 @@ From building MVPs to optimizing large-scale Ruby on Rails applications, **I bri
 
 - **Sharing my two cents as a coach, mentor or fellow developer**: Mentors
 have played a key role in helping me improve and I attempt to pay it forward in a probono way [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish). In addition to leveraging past experiences as coach/mentor, I intend to:
-  -  As a coach: Ask questions that enable people to think for themselves and thereby be more independent
-  - As a mentor/fellow developer: Share different perspectives for the consideration of fellow colleagues to explore together best ways of getting things done
+  - As a coach: Ask questions that enable people to think for themselves and thereby be more independent
+  - As a mentor/fellow developer:
+    - Share different perspectives for the consideration of fellow colleagues to explore together best ways of getting things done
+    - Be a sounding board to validate their ideas towards solving a problem or in other ways
 
 * **Building and being part of a closely knit team**: There is a saying failure can teach you a lot more than success. Having worked in person with international teams based in Singapore, The UK, and currently Germany for 7+ years, and having worked remotely with people from America, Europe, Africa and Asia, I’ve learned a number of lessons(some the hard way) of what truly builds strong, cohesive teams — and I’d love to bring those insights and leverage those experiences as and when needed.
 
