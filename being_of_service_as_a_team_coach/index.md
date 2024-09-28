@@ -4,9 +4,13 @@ title: "How I intend to be of service as a Team coach"
 date:  2024-09-23 09:24:35
 ---
 
-Having **worked in person with International teams** based in **Singapore**, **The UK** and currently in **Germany** and having the wonderful opportunity to **remotely work with diverse team members from other countries in America, Europe, Africa and Asia**, I've come to get a better understanding(some the hard way) of what unites us better as fellow humans and more so as part of a team towards a common goal.
+Having **worked in person with International teams** based in **Singapore**, **The UK** and currently in **Germany** and having the wonderful opportunity to **remotely/physically work with diverse team members from other countries in America, Europe, Africa, Asia and Oceania**, I've come to get a better understanding(some the hard way) of what unites us better as fellow humans and more so as part of a team towards a common goal.
 
-Also, **I believe being an engineer in addition to being a team coach helps me more closely see what's it like to be in the shoes of a fellow engineer on a more regular basis**. The increased sense of empathy from the above towards fellow team members and the related past experiences of working with people from different cultures motivate me to be a team coach and more specifically serve with regard to the below:
+Additionally, **I believe being an engineer in addition to being a team coach helps me on a regular basis more closely see what's it like to be in the shoes of a fellow engineer. The increased sense of empathy from the above towards fellow team members** motivate me further to serve as a team coach.
+
+Lastly, I believe **[this true story of a recent attempt](https://www.linkedin.com/feed/update/urn:li:activity:7244011733604786176/)** to **genuinely connect people** who are originally from Asia, Europe & Africa(and that are now based in Europe and Oceania) through playing a connection based game **could serve as a good example of how I intend to be of service.**
+
+More specifically, I intend to serve with regard to the below:
 
 - **Building Resilient and Self-Organizing Teams** – Empower teams to be better at navigating pressure and challenges, ensuring sustained productivity over the long term.
 - **Cultivating a Feeling of Genuine Connection Among Team Members** – This leads to better collaboration and eventually builds a deeper sense of trust, enhancing team cohesion and overall performance.
