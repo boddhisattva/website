@@ -8,7 +8,7 @@ Having **worked in person with International teams** based in **Singapore**, **T
 
 Additionally, **I believe being an engineer in addition to being a team coach helps me on a regular basis more closely see what's it like to be in the shoes of a fellow engineer. The increased sense of empathy from the above towards fellow team members** motivate me further to serve as a team coach.
 
-Lastly, I believe **[this true story of a recent attempt](https://www.linkedin.com/feed/update/urn:li:activity:7244011733604786176/)** to **genuinely connect people** who are originally from Asia, Europe & Africa(and that are now based in Europe and Australia) through playing a connection based game **could serve as a good example of how I intend to be of service.**
+Lastly, I believe **[this true story of a recent attempt](https://www.linkedin.com/feed/update/urn:li:activity:7244011733604786176/)** to **genuinely connect people** who are originally from Asia, Europe & Africa(and that are now based in Europe & Australia) through playing a connection based game **could serve as a good example of how I intend to be of service.**
 
 More specifically, I intend to serve with regard to the below:
 
