@@ -4,35 +4,40 @@ title: "How I intend to be of service as a Rails consultant"
 date:  2024-09-23 09:24:34
 ---
 
-From building MVPs to optimizing large-scale Ruby on Rails applications, **I bring a blend of technical expertise, product focus, leadership skills & coaching/mentoring experience**.
+From building MVPs to optimizing large-scale Ruby on Rails applications, **I bring a unique blend of technical expertise, product focus**, and **leadership skills**. My approach goes beyond just coding: I'm here to ensure your projects succeed both technically and strategically.
 
 **As a software engineer, my core strengths include**:
 
-- Crafting scalable solutions with tools & technologies like [Packs-Rails](https://github.com/rubyatscale/packs-rails), Sorbet, Rails engines, Elasticsearch, RabbitMQ, Redis, and more.
+- **Crafting Scalable Solutions**: Experience with using tools & technologies like [Packs-Rails](https://github.com/rubyatscale/packs-rails), Sorbet, Rails engines, Elasticsearch, RabbitMQ, Redis, and more to build scalable & maintainable applications.
 
-- Enhancing performance and observability using tools like Datadog, Redash, and New Relic, ensuring your apps run smoothly and efficiently.
+- **Performance and observability**: Enhancing app performance with built in and other tools like **Datadog**, **Redash**, and **New Relic** for smooth and efficient operation.
 
-- Debugging, refactoring, and enhancing existing software systems(including legacy ones), helping businesses evolve and adapt over time.
+- **Enhancing, Debugging, refactoring apps**: Improving, refactoring existing systems and also upgrading legacy systems to keep your business evolving and adapting to software changes over time.
 
-- Leading projects, fostering collaboration and delivering results that count.
+- **Project Leadership**: Leading projects with a focus on collaboration, delivering meaningful results that count.
 
-- **Examples of Open source work** and more recent code samples can be found **[here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c)**
+Explore my Open Source Contributions and Code Samples for examples of my recent work [here](https://gist.github.com/boddhisattva/7e394480e8b56870bd43e6c188e9ff1c).
 
-**Beyond technical implementation, I value**:
 
-- **Having a product-minded approach**, meaning I think beyond code and value
-  - Ideating in discussions related to user journeys and personas that eventually lead to more user-friendly products
-  - Taking inputs directly from different teams and stakeholders as & when needed in an attempt to build better features or when fixing important bugs that impact one's customers
+**Beyond technical implementation, I intend to add value with**:
 
-- **Proactive communication**: Communicating early and often is key to the success of any project, and I’ve been told by many people communication is my strength. Whether it's breaking down and explaining complex concepts or aligning cross-functional teams, I’m committed to keeping everyone on the same page.
+- **Having a product-minded approach**, meaning I value
+  - **Ideating to improve one's product offerings**: By participating in discussions related to **user journeys** and **personas** I care about contributing to product roadmap decisions that eventually lead to more user-friendly products
 
-- **Sharing my two cents as a coach, mentor or fellow developer**: Mentors
-have played a key role in helping me improve and I attempt to pay it forward in a probono way [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish). In addition to leveraging past experiences as coach/mentor, I intend to:
-  - As a coach: Ask questions that enable people to think for themselves and thereby be more independent
-  - As a mentor/fellow developer:
-    - Share different perspectives for the consideration of fellow colleagues to explore together best ways of getting things done
-    - Be a sounding board to validate their ideas towards solving a problem or in other ways
+  - **Cross Team collaboration**: As needed, I value seeking inputs directly from stakeholders and others teams to build better features, fix bugs, and deliver timely solutions that genuinely serve your customers.
 
-* **Building and being part of a closely knit team**: There is a saying failure can teach you a lot more than success. Having worked in person with international teams based in Singapore, The UK, and currently Germany for 7+ years, and having worked remotely with people from America, Europe, Africa and Asia, I’ve learned a number of lessons(some the hard way) of what truly builds strong, cohesive teams — and I’d love to bring those insights and leverage those experiences as and when needed.
+- **Proactive communication**:
+  - Communicating early and often is key to the success of any project, and I’ve been told by many people **communication is my strength**. Whether it's breaking down and explaining complex concepts or aligning cross-functional teams, **I’m committed to keeping everyone on the same page**.
 
-**If you’re looking for someone who can not only code but also coach, mentor, and help elevate your team, let’s connect**. Please feel free to check my past work references [here](https://gist.github.com/boddhisattva/b06989258aa46eaf58848dfcf9e35a60) and recommendations on LinkedIn [here](https://de.linkedin.com/in/mohnish-jadwani-9a924619).
+- **Being a multiplier in teams**: Mentors
+have played a key role in helping me improve and I attempt to pay it forward in a probono way [here](https://bit.ly/probono_coaching_mentoring_connect_with_mohnish). In addition to leveraging past experiences at and outside work as coach/mentor, I intend to:
+  - **As a coach**: **Ask the right questions** to encourage independent thinking and thereby **to enable people to be more self sufficient**
+  - **As a mentor**: Offer different perspectives and be a sounding board, helping colleagues solve problems and validate ideas.
+
+* **Building a closely knit team**: I’ve had wonderful opportunities of working in person with international teams from Singapore, The UK, and Germany for over 7 years, and remotely with team members across North & South America, Europe, Africa, and Asia. Through these experiences, I’ve learned what makes teams strong and cohesive—and I’m eager to apply these lessons to help your team succeed.
+
+**Let's Connect**
+
+If you're looking for a Rails consultant who can **code, coach, mentor**, and help **elevate your team**, let's talk.
+
+You are welcome to check my past work references [here](https://gist.github.com/boddhisattva/b06989258aa46eaf58848dfcf9e35a60) and recommendations on LinkedIn [here](https://de.linkedin.com/in/mohnish-jadwani-9a924619).
