@@ -35,3 +35,7 @@ These lessons became more dearer to me when I learnt some of them the hard way a
 
 **P.S.** It just so happens **when one builds such a genuine relationship and connection centric  team and organization culture**, that a **natural by product** of this is more **joyful and productive team members and organisations**
 
+**Let’s Build Strong Teams Together**
+
+If you’re looking for someone to help **elevate your team** by **aligning your team members towards a shared purpose** and mission, **fostering connection**, **building resilience**, and **cultivating a values-driven culture**, I’d love to connect and see how I can be of service.
+
