@@ -12,7 +12,7 @@ categories:
 ---
 
 - The below Rspec code shows testing the navigation to the sign up page using the mobile's burger menu(**see below screenshots**)
-  - **Please note**: Post running the mobile spec(s), one needs to resize to normal window size defaults for other web app tests
+  - **Post running the mobile spec(s), one needs to resize to normal window size defaults** for running other web app tests
   
 - **The Rails 8 app** with the below code is available [here](https://github.com/boddhisattva/learner-web/blob/main/spec/system/mobile/mobile_users_authentication_flow_spec.rb) & it's deployed [here](https://learner-web.onrender.com/)
   - **Please note**: Deploying on [Render](https://render.com/) seems slow via its free tier(more [here](https://www.reddit.com/r/node/comments/195sm33/comment/lbgoggr/)), so if needed please allow page loading some time
@@ -50,12 +50,12 @@ end
 
 - **App home page** on Mobile
 
-![Mobile responsive layout app homepage with Rails 8](https://i.imgur.com/uO27QuQ.png)
+![Mobile responsive layout app homepage with Rails 8](https://i.imgur.com/XnoQZ7I.jpeg)
 
 - Sign Up button shows on clicking the mobile burger menu
 
-  ![Sign up button shows on clicking the mobile burger menu](https://i.imgur.com/hdh0IKS.png)
+  ![Sign up button shows on clicking the mobile burger menu](https://i.imgur.com/hdh0IKS.jpeg)
 
 - **Sign up page** on Mobile
 
-  ![Sign up page on Mobile with Rails 8](https://i.imgur.com/9zAklr4.png)
+  ![Sign up page on Mobile with Rails 8](https://i.imgur.com/9zAklr4.jpeg)
