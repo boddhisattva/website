@@ -11,7 +11,7 @@ categories:
   - selenium-webdriver
 ---
 
-- The below Rspec code shows testing the navigation to the sign up page using the mobile's burger menu(**see below screenshots**)
+- The below Rspec code shows testing the navigation to the sign up page using the [mobile's burger menu](https://icons8.de/icons/set/hamburger-menu)(**[see below screenshots](#mobile-screenshots)**)
   - **Post running the mobile spec(s), one needs to resize to normal window size defaults** for running other web app tests
   
 - **The Rails 8 app** with the below code is available [here](https://github.com/boddhisattva/learner-web/blob/main/spec/system/mobile/mobile_users_authentication_flow_spec.rb) & it's deployed [here](https://learner-web.onrender.com/)
@@ -48,11 +48,13 @@ module Mobile
 end
 ```
 
+# Mobile Screenshots
+
 - **App home page** on Mobile
 
 ![Mobile responsive layout app homepage with Rails 8](https://i.imgur.com/XnoQZ7I.jpeg)
 
-- Sign Up button shows on clicking the mobile burger menu
+- Sign Up button shows on clicking the mobile [burger menu](https://icons8.de/icons/set/hamburger-menu)
 
   ![Sign up button shows on clicking the mobile burger menu](https://i.imgur.com/hdh0IKS.jpeg)
 
