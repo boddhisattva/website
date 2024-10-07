@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to test mobile responsive layout using Ruby on Rails 8 and RSpec System Tests
-date:  2024-10-07 18:06:00 +02:00
+date:  2024-10-07 08:54:00 +02:00
 categories:
   - rspec
   - system-tests
