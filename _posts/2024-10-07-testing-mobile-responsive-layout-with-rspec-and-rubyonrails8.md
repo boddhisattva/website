@@ -50,7 +50,7 @@ end
 
 - **App home page** on Mobile
 
-![Mobile responsive layout app homepage with Rails 8](https://i.imgur.com/9mdcsAY.png)
+![Mobile responsive layout app homepage with Rails 8](https://i.imgur.com/uO27QuQ.png)
 
 - Sign Up button shows on clicking the mobile burger menu
 
