@@ -6,7 +6,7 @@ categories:
   - rspec
   - system-tests
   - rails8
-  - mobile-responsive-tests-with-rails
+  - mobile-tests-with-rails
   - capybara
   - selenium-webdriver
 ---
