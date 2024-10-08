@@ -14,8 +14,8 @@ categories:
 - The below Rspec code shows testing the navigation to the sign up page using the [mobile's burger menu](https://icons8.de/icons/set/hamburger-menu)(**[see below screenshots](#mobile-screenshots)**)
   - **Post running the mobile spec(s), one needs to resize to normal window size defaults** for running other web app tests
   
-- **The Rails 8 app** with the below code is available [here](https://github.com/boddhisattva/learner-web/blob/main/spec/system/mobile/mobile_users_authentication_flow_spec.rb) & it's deployed [here](https://learner-web.onrender.com/)
-  - **Please note**: Deploying on [Render](https://render.com/) seems slow via its free tier(more [here](https://www.reddit.com/r/node/comments/195sm33/comment/lbgoggr/)), so if needed please allow page loading some time
+- **The Rails 8 app** with the below code is available [here](https://github.com/boddhisattva/learner-web/blob/upgrade_to_rails8/spec/system/mobile/mobile_users_authentication_flow_spec.rb)
+  - **Update**: Reverted Rails 8 deploy as some new dependencies don't work currently with Rails 8.0.0.beta1. More details [here](https://github.com/boddhisattva/learner-web/pull/22/commits/36a5e5646c6bc11421400bd5e25c35030203f82f)
   
 ```ruby
 # frozen_string_literal: true
