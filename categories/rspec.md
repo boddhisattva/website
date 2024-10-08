@@ -1,5 +1,5 @@
 ---
-title: Rspec
+title: RSpec
 layout: category
 category: rspec
 ---
