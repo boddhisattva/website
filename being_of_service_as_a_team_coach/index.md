@@ -36,8 +36,6 @@ Without these core human elements, neither technology nor communication can thri
 
 These lessons became more dearer to me when I learnt some of them the hard way and after seeing the impact it had on me professionally and on my family personally. I want others to have more fulfilling work relationships, which lead to happier, more joyful lives for every individual & for each of their families.
 
-**P.S.** It just so happens **when one builds such a genuine relationship and connection centric  team and organization culture**, that a **natural by product** of this is more **joyful and productive team members and organisations**
-
 **Let’s Build Strong Teams Together**
 
 If you’re looking for someone to help **elevate your team** by **aligning your team members towards a shared purpose** and mission, **fostering connection**, **building resilience**, and **cultivating a values-driven culture**, I’d love to connect and see how I can be of service.
