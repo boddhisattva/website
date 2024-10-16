@@ -4,10 +4,14 @@ title: "How I intend to be of service as a Team coach"
 date:  2024-09-23 09:24:35
 ---
 
-Imagine **a workplace where every team member feels understood & connected** with one’s colleagues, **such a joyful work environment intrinsically drives high performance & success**.
+Imagine **a workplace where every team member feels understood & connected** with one’s colleagues, **such a joyful work environment intrinsically drives high performance & success**. This is the kind of culture I aim to foster as a team coach.
 
-This is the kind of culture I aim to foster as a team coach. By **using my current experience of serving as both an engineer and a [coach](https://www.mentoring-club.com/the-mentors/mohnish-gemini-jadwani)**, I **bring a deeper understanding of what it’s like to be in the shoes of a fellow engineer**. This **increased empathy allows me to better serve** towards a goal where the whole is greater than the sum of its parts.
+By **using my current & ongoing experience of serving as both an engineer & a [coach](https://www.mentoring-club.com/the-mentors/mohnish-gemini-jadwani)**, I get to
 
+  - **walk the talk**
+  - **be in the frontlines**(by which a situation can be better understood) with other engineers
+
+The above combination **brings a deeper understanding of what it’s like to be in the shoes of a fellow engineer**. This **increased empathy allows me to better serve** towards a goal where the whole is greater than the sum of its parts.
 
 I believe **[this true story of a recent attempt](https://www.linkedin.com/feed/update/urn:li:activity:7244011733604786176/)** to **genuinely connect people** who are originally from Asia, Europe & Africa(and that are now based in Europe & Australia) through playing a connection based game **could serve as a good example of how I intend to be of service.**
 
@@ -39,4 +43,3 @@ These lessons became more dearer to me when I learnt some of them the hard way a
 **Let’s Build Strong Teams Together**
 
 If you’re looking for someone to help **elevate your team** by **aligning your team members towards a shared purpose** and mission, **fostering connection**, **building resilience**, and **cultivating a values-driven culture**, I’d love to connect and see how I can be of service.
-
