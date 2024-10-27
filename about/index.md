@@ -18,7 +18,7 @@ date:  2024-09-22 15:40:53
     - Write to me on mail4mohnishj@gmail.com(will do my best to get back time permitting)
 - **Believe in**: The spirit of [Ubuntu](https://www.youtube.com/watch?v=44xbZ8MN1uk) and [Lokahitam Mama Karaṇīyam](https://www.azhagi.com/motto-love-all-serve-all-help-ever-hurt-never.php)
 
-In case **you'd like to explore how we could collaborate for a project you have in mind**, please feel free to reach out via **mail4mohnishj@gmail.com** or **[set up an online video connect call](https://calendly.com/sadhakforlife/explore-how-we-could-collaborate-together)**.
+In case **you'd like to explore how we could collaborate for a project you have in mind**, please feel free to reach out via **mail4mohnishj@gmail.com**.
 
 P.S: In case you don't see any open booking sessions available on my mentoring club profile, it's most likely due to my limited availability of doing such sessions whenever feasible
 
